@@ -18,7 +18,7 @@ const Contact = () => {
         Get In Touch
       </h2>
       <p style={{ fontSize: 'var(--fz-lg)', color: 'var(--slate)', lineHeight: 1.7, marginBottom: '50px' }}>
-        I'm currently looking for Summer 2025 internship opportunities. Whether you have a question, an opportunity, or just want to say hi, my inbox is always open.
+        I'm currently looking for Summer 2026 internship opportunities. Whether you have a question, an opportunity, or just want to say hi, my inbox is always open.
       </p>
       <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
         <a href="mailto:ra3439@columbia.edu" className="big-button">Say Hello</a>
